@@ -18,6 +18,37 @@
 
 ---
 
+## 🚀 Основные направления
+### 🌐 Веб-разработка
+- 🛒 Продающие сайты на WordPress/WooCommerce (под ключ)
+- 🏗️ Сложные backend-решения любой сложности
+- 🔌 Кастомные плагины и модули для WordPress
+- 📊 Интерактивные калькуляторы и формы
+
+### 💻 Программная разработка
+- 🤖 Telegram-боты (парсеры, CRM, автоматизация)
+- 📦 Десктопные приложения (C++/Qt, Python)
+- ⚙️ Системные утилиты и скрипты (Python, Bash)
+- 🔌 Интеграции с API (1С, Битрикс, AmoCRM)
+
+## 🛠️ Технологический стек
+### Frontend & CMS
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+### Backend & Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
 ## 🚀 Обо мне
 
 - 🎯 Специализируюсь на создании продающих сайтов на **WordPress**
