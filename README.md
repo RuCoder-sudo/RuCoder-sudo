@@ -82,7 +82,7 @@
 
 ## 📊 GitHub Статистика
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Coder&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuCoder&theme=aura_dark)
 
 ---
 
