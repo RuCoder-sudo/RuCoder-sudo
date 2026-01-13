@@ -83,7 +83,7 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuCoder&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
