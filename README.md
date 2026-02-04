@@ -25,6 +25,7 @@
     <img alt="Анимация змейки, показывающая мои вклады на GitHub" src="https://RuCoder-sudo.github.io/github-snake.svg" width="100%">
   </picture>
 </div>
+![Snake animation](https://raw.githubusercontent.com/RuCoder-sudo/RuCoder-sudo/main/assets/github-contribution-grid-snake.svg)
 
 ---
 
