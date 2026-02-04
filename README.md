@@ -114,7 +114,8 @@ graph TD
 
 </div>
 
-📫 Контакты
+##📫 Контакты
+
 📱 Телефон / WhatsApp: +7 (985) 985-53-97
 </br>
 📩 Email: support@рукодер.рф
@@ -123,7 +124,7 @@ graph TD
 </br>
 🌍 Портфолио: https://рукодер.рф
 
-## 😎💬 Цитата
+## 😎 Цитата
 
 <div align="center">
   <div style="background: linear-gradient(135deg, #8A2BE2, #9400D3); padding: 20px; border-radius: 10px; color: white; font-size: 18px; font-weight: bold; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
