@@ -123,12 +123,17 @@ graph TD
 </br>
 🌍 Портфолио: https://рукодер.рф
 
-## 💬 Случайная цитата разработчика
+## 😎💬 Цитата
 
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+  <div style="background: linear-gradient(135deg, #8A2BE2, #9400D3); padding: 20px; border-radius: 10px; color: white; font-size: 18px; font-weight: bold; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p style="margin: 0; font-style: italic;">
+      "Основная проблема при сопровождении программного обеспечения заключается в том, что при исправлении одного дефекта с большой вероятностью (20–50 процентов) появляется другой. Таким образом, весь процесс — это два шага вперед и один шаг назад."
+    </p>
+    <p style="text-align: right; margin: 10px 0 0 0; font-size: 16px;">
+      — Закон Леханской
+    </p>
+  </div>
 </div>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=RuCoder-sudo&style=flat-square&color=blue" alt="GitHub Profile Views" /> </div>
