@@ -18,14 +18,7 @@
 
 ## 🐍 Активность GitHub
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://RuCoder-sudo.github.io/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://RuCoder-sudo.github.io/github-snake.svg">
-    <img alt="Анимация змейки, показывающая мои вклады на GitHub" src="https://RuCoder-sudo.github.io/github-snake.svg" width="100%">
-  </picture>
-</div>
-![Snake animation](https://raw.githubusercontent.com/RuCoder-sudo/RuCoder-sudo/main/assets/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
