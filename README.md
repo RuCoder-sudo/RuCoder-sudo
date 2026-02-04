@@ -16,6 +16,16 @@
   <a href="https://wa.me/79859855397"><img src="https://img.shields.io/badge/📞 WhatsApp-25D366?style=for-the-badge&logo=whatsapp" /></a>
 </div>
 
+## 🐍 Активность GitHub
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://RuCoder-sudo.github.io/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://RuCoder-sudo.github.io/github-snake.svg">
+    <img alt="Анимация змейки, показывающая мои вклады на GitHub" src="https://RuCoder-sudo.github.io/github-snake.svg" width="100%">
+  </picture>
+</div>
+
 ---
 
 ## 🚀 Основные направления
