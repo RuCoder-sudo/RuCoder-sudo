@@ -1,3 +1,56 @@
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuCoder-sudo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuCoder-sudo&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+## 📈 Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuCoder-sudo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 💬 Random Developer Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+## 📝 Lines of code
+
+<div align="center">
+  
+  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20million%20lines%20of%20code-blue)
+
+</div>
+
+## 🏓 Ping Pong
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/RuCoder-sudo/RuCoder-sudo/main/pong.svg" alt="Pong Game" width="400"/>
+
+</div>
+
+
+
 # 👨‍💻 Сергей Солошенко | 🆁🆄🅲🅾🅳🅴🆁
 
 <div align="center">
