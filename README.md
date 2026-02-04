@@ -16,7 +16,7 @@
   <a href="https://wa.me/79859855397"><img src="https://img.shields.io/badge/📞 WhatsApp-25D366?style=for-the-badge&logo=whatsapp" /></a>
 </div>
 
-## 🐍 Активность GitHub
+## 🐍 Активность
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
