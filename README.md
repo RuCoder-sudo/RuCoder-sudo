@@ -116,7 +116,7 @@ graph TD
 
 📱 Телефон / WhatsApp: +7 (985) 985-53-97
 </br>
-📩 Email: support@рукодер.рф
+📩 Email: rucoder.rf@yandex.ru
 </br>
 ⚡ Telegram: @RussCoder
 </br>
