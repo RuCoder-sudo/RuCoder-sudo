@@ -1,3 +1,16 @@
+[![Pr Mex - Ставил Windows программист](https://img.shields.io/badge/Pr_Mex-Ставил_Windows_программист-blue?logo=spotify)](https://open.spotify.com/track/2Qq8g6T3L0JzZ9TQ8V8V8V?si=example)  
+[![Pr Mex - Инвентаризация](https://img.shields.io/badge/Pr_Mex-Инвентаризация-blue?logo=spotify)](https://open.spotify.com/track/1X9QqK4ZvZ6RqZ7zZzZzZ?si=example)  
+[![Батя программист](https://img.shields.io/badge/Батя-программист-blue?logo=spotify)](https://open.spotify.com/track/2W8y8tD9yZqZzZzZzZzZz?si=example)  
+[![Это гангста программист](https://img.shields.io/badge/Это_гангста-программист-blue?logo=spotify)](https://open.spotify.com/track/3A7b7c7d7e7f7g7h7j7k7?si=example)  
+[![Король и Шут - Проклятый старый код](https://img.shields.io/badge/Король_и_Шут-Проклятый_старый_код-blue?logo=spotify)](https://open.spotify.com/track/4b4c4d4e4f4g4h4j4k4l4?si=example)  
+[![O.Torvald - Айтишник](https://img.shields.io/badge/O.Torvald-Айтишник-blue?logo=spotify)](https://open.spotify.com/track/5c5d5e5f5g5h5j5k5m5n5?si=example)  
+[![Гимн программистов](https://img.shields.io/badge/Гимн-программистов-blue?logo=spotify)](https://open.spotify.com/track/6d6e6f6g6h6j6k6l6m6n6?si=example)  
+[![Ленинград - Менеджер](https://img.shields.io/badge/Ленинград-Менеджер-blue?logo=spotify)](https://open.spotify.com/track/7e7f7g7h7j7k7l7m7n7o7?si=example)  
+[![Galibri & Mavik - Поднимите мне зарплату](https://img.shields.io/badge/Galibri_&_Mavik-Поднимите_мне_зарплату-blue?logo=spotify)](https://open.spotify.com/track/8f8g8h8j8k8l8m8n8o8p8?si=example)  
+[![НТР - Остановите стартап](https://img.shields.io/badge/НТР-Остановите_стартап-blue?logo=spotify)](https://open.spotify.com/track/9g9h9j9k9l9m9n9o9p9q9?si=example)  
+[![Про хакеров (под гитару)](https://img.shields.io/badge/Про_хакеров-под_гитару-blue?logo=youtube)](https://www.youtube.com/watch?v=5qY6yY7Y8Y8)  
+[![Русский Хакер](https://img.shields.io/badge/Русский_Хакер-рэп-blue?logo=spotify)](https://open.spotify.com/track/0a0b0c0d0e0f0g0h0i0j0?si=example)  
+[![Био - Техноромантики](https://img.shields.io/badge/Био-Техноромантики-blue?logo=spotify)](https://open.spotify.com/track/1b1c1d1e1f1g1h1i1j1k1?si=example)
 # 👨‍💻 Сергей Солошенко | 🆁🆄🅲🅾🅳🅴🆁
 
 <div align="center">
