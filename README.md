@@ -24,21 +24,21 @@
 ---
 
 ## 🚀 Основные направления
-### 🌐 Веб-разработка
-- 🛒 Продающие сайты на WordPress/WooCommerce (под ключ)
-- 🏗️ Сложные backend-решения любой сложности
-- 🔌 Кастомные плагины и модули для WordPress
-- 📊 Интерактивные калькуляторы и формы
+### Веб-разработка
+- Продающие сайты на WordPress/WooCommerce (под ключ)
+- Сложные backend-решения любой сложности
+- Кастомные плагины и модули для WordPress
+- Интерактивные калькуляторы и формы
 
-### 💻 Программная разработка
-- 🤖 Telegram-боты (парсеры, CRM, автоматизация)
-- 📦 Десктопные приложения (C++/Qt, Python)
-- ⚙️ Системные утилиты и скрипты (Python, Bash)
-- 🔌 Интеграции с API (1С, Битрикс, AmoCRM)
+### Программная разработка
+- Telegram-боты (парсеры, CRM, автоматизация)
+- Десктопные приложения (C++/Qt, Python)
+- Системные утилиты и скрипты (Python, Bash)
+- Интеграции с API (1С, Битрикс, AmoCRM)
 
 ## 🛠️ Мой технологий стек
 
-### 🌐 Frontend & CMS
+### Frontend & CMS
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
