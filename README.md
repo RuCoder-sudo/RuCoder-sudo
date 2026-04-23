@@ -53,7 +53,7 @@
   </p>
 
 
-### 💻 Backend & Languages
+### Backend & Languages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -106,9 +106,9 @@ graph TD
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| **[🔥 WordPress Магазин](https://рукодер.рф)** | Полный цикл разработки интернет-магазина | WordPress, WooCommerce, PHP, JS |
-| **[🤖 Telegram CRM](https://t.me/RussCoder)** | Бот для автоматизации бизнес-процессов | Python, Aiogram, PostgreSQL |
-| **[⚡ Быстрый сайт]** | Оптимизированный лендинг за 24 часа | HTML5, CSS3, Vanilla JS |
+| **[ WordPress Магазин](https://рукодер.рф)** | Полный цикл разработки интернет-магазина | WordPress, WooCommerce, PHP, JS |
+| **[ Telegram CRM](https://t.me/RussCoder)** | Бот для автоматизации бизнес-процессов | Python, Aiogram, PostgreSQL |
+| **[ Быстрый сайт]** | Оптимизированный лендинг за 24 часа | HTML5, CSS3, Vanilla JS |
 
 </div>
 
@@ -120,7 +120,7 @@ Email: rucoder.rf@yandex.ru
 </br>
 Telegram: @RussCoder
 </br>
-🌍 Портфолио: https://рукодер.рф
+ Портфолио: https://рукодер.рф
 
 ## 😎 Цитата
 
