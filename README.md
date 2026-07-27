@@ -84,7 +84,7 @@
 
 ## GitHub Статистика
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuCoder&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RuCoder&theme=aura_dark&utcOffset=8)
+![](https://camo.githubusercontent.com/9d1676cd4f09ffaa6d8d1153f5b4542853bee7952a028bc83a20862308fc517c/68747470733a2f2f6769746875622d726561646d652d73746174732d676b2e76657263656c2e6170702f6170693f757365726e616d653d6761757261766b68757261616e612673686f775f69636f6e733d74727565267468656d653d676f7468616d26763d32)
 
 ---
 
