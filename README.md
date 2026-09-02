@@ -100,7 +100,7 @@ graph TD
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| **[ WordPress Магазин](https://max-wp.ru/)** | Полный цикл разработки интернет-магазина | WordPress, WooCommerce, PHP, JS |
+| **[ WordPress Магазин](https://fixcoder.ru/)** | Полный цикл разработки интернет-магазина | WordPress, WooCommerce, PHP, JS |
 | **[ Telegram CRM](https://t.me/RussCoder)** | Бот для автоматизации бизнес-процессов | Python, Aiogram, PostgreSQL |
 | **[ Быстрый сайт]** | Оптимизированный лендинг за 24 часа | HTML5, CSS3, Vanilla JS |
 
@@ -114,7 +114,7 @@ Email: rucoder.rf@yandex.ru
 </br>
 Telegram: @RussCoder
 </br>
- Портфолио: https://max-wp.ru/
+ Портфолио: https://fixcoder.ru/
 
 ## 😎 Цитата
 
