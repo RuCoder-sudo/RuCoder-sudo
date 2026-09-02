@@ -10,9 +10,9 @@
 </p>
 
 <div align="center">
-  <a href="https://рукодер.рф/"><img src="https://img.shields.io/badge/🌐 Сайт-Рукодер-8A2BE2?style=for-the-badge&logo=wordpress" /></a>
+  <a href="https:///"><img src="https://img.shields.io/badge/🌐 Сайт-Рукодер-8A2BE2?style=for-the-badge&logo=wordpress" /></a>
   <a href="https://t.me/RussCoder"><img src="https://img.shields.io/badge/💬 Telegram-0088CC?style=for-the-badge&logo=telegram" /></a>
-  <a href="mailto:support@рукодер.рф"><img src="https://img.shields.io/badge/📧 Email-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:support@fixcoder.ru"><img src="https://img.shields.io/badge/📧 Email-D14836?style=for-the-badge&logo=gmail" /></a>
   <a href="https://wa.me/79859855397"><img src="https://img.shields.io/badge/📞 WhatsApp-25D366?style=for-the-badge&logo=whatsapp" /></a>
   <a href="https://max.ru/u/f9LHodD0cOIhMMNX7yu02rl-e7Vzkr1VFxmkAEqOSlziBRtQEIMNiAR_R8M"><img src="https://img.shields.io/badge/📱 Max-FF6C37?style=for-the-badge" /></a>
 </div>
@@ -100,7 +100,7 @@ graph TD
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| **[ WordPress Магазин](https://рукодер.рф)** | Полный цикл разработки интернет-магазина | WordPress, WooCommerce, PHP, JS |
+| **[ WordPress Магазин](https://max-wp.ru/)** | Полный цикл разработки интернет-магазина | WordPress, WooCommerce, PHP, JS |
 | **[ Telegram CRM](https://t.me/RussCoder)** | Бот для автоматизации бизнес-процессов | Python, Aiogram, PostgreSQL |
 | **[ Быстрый сайт]** | Оптимизированный лендинг за 24 часа | HTML5, CSS3, Vanilla JS |
 
@@ -114,7 +114,7 @@ Email: rucoder.rf@yandex.ru
 </br>
 Telegram: @RussCoder
 </br>
- Портфолио: https://рукодер.рф
+ Портфолио: https://max-wp.ru/
 
 ## 😎 Цитата
 
